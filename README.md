@@ -10,32 +10,24 @@
 </div>
 
  ##
-  
-<div>
-  <a href="https://github.com/Gustavohp1708"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavohp1708&show_icons=true&theme=highcontrast&include_all_commits=true&count"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavohp1708&layout=donut&theme=highcontrast"/>
-</div>
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavohp1708&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavohp1708&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
-<div>
-  <div>
-     <h3>Back-end</h3>
+<div>  
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />     
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
-
-  <div>
-     <h3>Front-end</h3>     
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />            
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </div>
+  
 </div>
   
 ##
