@@ -8,14 +8,6 @@
   <!-- Whatsapp -->
   <a href="https://wa.me/5511932299848"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>   
 </div>
-
- ##
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavohp1708&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavohp1708&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-##
-
 <div>  
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />     
